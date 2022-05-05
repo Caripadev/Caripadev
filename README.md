@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Caripadev
+- 🌱 I’m currently learning PHP, MySQL, JS & C#
+- 📫 How to reach me leonardocaripadev@gmail.com
